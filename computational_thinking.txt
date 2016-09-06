@@ -1,0 +1,305 @@
+Basics -How do you type your name? 
+
+High Level:
+
+#1> Type out the letters T-E-D-D-Y 
+
+Medium level: 
+
+#1> Open my laptop
+#2> Put my left hand and right hand on their respective halves of the keyboard
+#3> Give my left hand the responsibility of the keys "Q,W,E,R,T,A,S,D,F,G,Z,X,C,V"
+#4> Give my right hand the responsibility of the keys "Y,U,I,O,P,H,J,K,L,B,N,M"
+#5> Type out the letters T-E-D-D-Y
+
+Low level: 
+
+#1>Open my laptop
+#2> Place my left hand facing down on the keyboard so my pinky is on the letter "a", the ring finger is on the letter "s", the middle finger is on the letter "d", and the pointer finger is on the letter "f"
+#3> Place my right hand facing down on the keyboard so my pinky is on the ";", the ring finger is on the letter "l", the middle finger is on the letter "k", and the pointer finger is on the letter "j"
+#4> Use my left pinky to press the "Shift Key" and the left pointer finger to press the letter "t" at the same time.
+#5> Use my left middle finger to press the letter "e"
+#6> Use my left middle finger to press the letter "d" twice
+#7> Use my right pointer finger to press the letter "y"
+
+Basics - How do you turn on and unlock your iPhone?
+
+High Level:
+
+#1> Hit the power button 
+#2> Scan finger to unlock
+
+Medium Level: 
+
+#1> Take phone out of pocket
+#2> Press the power button
+#3> Scan finger to unlock
+#4> If this fails to work, type in the password
+
+Low Level: 
+
+#1> Use your hand to reach into pocket
+#2> Grab phone
+#3> Lift phone out of pocket
+#4> Using index finger, briefly press and release button at top of iPhone 5 to light up screen
+#5> Using other hand, extend index finger
+#6> Lightly hold extended index finger over the home button located at the center-bottom of the iPhone.  This button has a box symbol
+#7> If phone unlocks, you're done!
+	#8> If phone fails to unlock, place finger on screen and swipe left
+	#9> Type correct passcode into screen
+
+Basics - How do you make Coffee (or a cup of tea) 
+
+High Level: 
+
+#1> Run hot water over ground coffee beans
+#2> Drink 
+
+Medium Level: 
+
+#1> Place ground beans in filter in coffee machine
+#2> Fill machine with hot water
+#3> Place the pot at the bottom of the machine
+#4> Press start button
+#5> Once pot is full, pour into cup and drink 
+
+Low Level: 
+
+#1> Open container of ground coffee beans
+#2> Take a coffee filter out of box 
+#3> Open top of coffee machine and place filter point facing down in the machine's cone
+#4> Place two scoops of ground coffee beans in the filter
+#5> Close the top of the coffee machine with the filter and beans
+#6> Fill a water container with hot water
+#7> Open part of machine that accepts water
+#8> Pour water into this part of the machine up to the line which designates it's full
+#9> Place water container on counter
+#10> Place pot for coffee machine at the bottom 
+#11> Press button to start brewing coffee
+#12> Ensure coffee is dripping into top part of the pot
+#13> Drink once complete
+
+Traveling - How do you get to the Airport
+
+High Level
+
+#1> Call an Uber
+#2> Get into Uber when it arrives, get out at airport
+
+Medium Level
+
+#1> Pull out phone, open Uber app
+#2> Type in destination and request car
+#3> When car arrives, place bags in trunk and sit in car
+#4> Exit car when it arrives at the airport
+
+Traveling - How do you get to Class
+
+High Level
+
+#1> Take muni to stop near class
+#2> Get out, walk to 225 Sansome
+#3> Take elevator to 5th floor and walk to classroom
+
+Medium Level
+
+#1> Walk to 10 muni stop
+#2> Get on bus
+#3> Get off bus at Sansome and Pine
+#4> Walk to 225 Sansome
+#5> Enter building, take elevator to 5th floor
+#6> Walk down the hall to classroom 
+
+Low Level
+
+#1> Exit house
+#2> Turn right, walk 4 blocks to bus stop
+#3> Wait for 10 bus to come
+#4> Wait a bit longer because the muni is always late
+#5> When bus arrives, step on bus
+#6> Hold clipper card up to machine to pay fare
+#7> If seat is available, sit down
+	#8> If no seat is available, stand and hold rail
+#9> Wait 20 stops
+#10> Pull cord to get off at Sansome and Pine
+#11> When bus comes to a halt and Sansome and Pine and opens doors, step off bus
+#12> Walk north for half a block to 225 Sansome
+#13> Enter building
+#14> Push button for elevator going up
+#15> When elevator doors open, step in
+#16> Push button for floor 5
+#17> When doors open on 5th floor, step out
+#18> Walk to the appropriate classroom
+
+Activities - How do you get dressed 
+
+Medium Level:
+
+#1> Put on underwear
+#2> Put on jeans
+#3> Put on shirt
+#4> Put on sweater
+#5> Put on socks
+#6> Put on shoes
+#7> Look in mirror to check that I look like a boss
+
+Activities - How do you buy groceries 
+
+High Level: 
+
+#1> Go to the grocery store, buy what I need to buy
+
+Medium Level: 
+
+#1> Make a list of items to buy
+#2> Walk to grocery store
+#3> Place required items in cart
+#4> Checkout at cashier
+#5> Bring groceries home
+
+Low Level: 
+
+#1> Make a list of items to buy
+#2> Exit house
+#3> Turn right, walk four blocks
+#4> Turn left, walk one block
+#5> Enter grocery store
+#6> Grab cart for carrying groceries
+#7> For each item on grocery list, locate item in aisle and place in cart
+	#8> If unable to find item, ask for help to locate
+#9> Taste free samples.  Yum!
+#10> When all items on list have been accounted for, walk to cashier
+#11> Wait in line while others in front of you pay
+#12> Place items on counter so employee can scan them
+#13> Once all items have been scanned, swipe credit card to pay for food
+#14> Place items in bags in cart
+#15> Carry bags home
+#16> Place items in fridge or freezer
+
+Activities - How do you make a sandwich
+
+High Level: 
+
+#1> Spread peanut butter on one piece of bread, jelly on another piece of bread
+#2> Press together
+
+Medium Level: 
+
+#1> Toast 2 pieces of bread
+#2> Take out peanut butter and jelly containers
+#3> Spread peanut butter on one piece of toast
+#4> Spread jelly on 2nd piece of toast
+#5> Press together and eat
+
+Low Level: 
+
+#1> Take 2 pieces of bread out of loaf
+#2> Place in toaster oven
+#3> Set toaster to "6"
+#4> Press toaster button down to start toast
+#5> Take out peanut butter and jelly containers from fridge
+#6> Take out plate
+#7> When bread is done toasting, place two slices of bread on plate separate from each other
+#8> Dip clean knife into peanut butter container and spread peanut butter on first piece of bread
+	#9> If not enough peanut butter on bread, repeat step 8
+	#10> If too much peanut butter on bread, gather excess peanut butter on knife and scrape back into peanut butter container
+#11> Clean knife
+#12> Repeat steps 8-10 for jelly on 2nd piece of bread
+#13> Press peanut butter and jelly together between the two pieces of bread
+#14> Eat and enjoy!
+
+Activities - How do you exercise
+
+High Level: 
+
+#1> Go for a run to the baseball park and back
+
+Medium Level: 
+
+#1> Put on sneakers
+#2> Run to the ballpark and back
+#3> Stretch legs
+#4> Do push ups and sit ups
+#5> Take a shower
+
+Decisions - How do you decide what shoes to buy
+
+High Level: 
+
+#1> Try on cool looking shoes
+#2> If they fit, purchase
+
+Medium Level: 
+
+#1> Go to shoe store
+#2> Look at models to identify good looking shoes
+#3> Try on shoes, walk around to see if they are comfortable
+	#4> If the fit and look good, purchase
+	#5> If not, repeat steps 3-4
+
+Decisions - How do you decide what movie to watch
+
+High Level: 
+
+#1> Watch movie that looks entertaining on Netflix
+
+Medium Level: 
+
+#1> Open Netflix
+#2> Scroll through movie titles, identify ones that look interesting
+#3> Check reviews on Rotten Tomatoes
+#4> Identify movie with high reviews and watch
+
+Low Level: 
+
+#1> Open Netflix on my computer
+#2> Go category by category and identify movies that look interesting
+#3> Once list is 5 movies long, open up rotten tomatoes
+#4> For each movie, look at reviews
+#5> Any movie with less than 50% on rotten tomatoes should be crossed off the list
+#6> For each remaining movie, read taglines of reviews
+#7> If movie(s) are sufficiently appealing, watch most appealing movie
+#8> If no movies seem interesting, repeat steps 2-7
+#9> Probably spend more time on this process than actually watching the movie
+
+Decisions - How do you decide what to eat
+
+High Level: 
+
+#1> Find item(s) on menu that is most appetizing and order that dish
+
+Medium Level: 
+
+#1> Assess level of hunger to determine amount of food to order
+#2> Peruse all items on menu, taking mental note of which ones are appealing
+#3> Order dish(es) that are appealing and satisfy desired amount of food
+#4> Ensure dishes do not contain anything that you are allergic to 
+
+Decisions - How do you decide what to wear
+
+High Level: 
+
+#1> Put on appropriate clothes for occasion
+
+Medium Level: 
+
+#1> Determine level of dress appropriate for desired occasion
+#2> Go through closet/dresser to identify potential clothes for event
+#3> Try on potential different outfits
+#4> Wear the clothes that look best
+
+Low Level: 
+
+#1> Determine level of dress appropriate for desired occasion
+#2> If low level dress is required, wear jeans 
+	#3> Look through shirts and find appropriate tee shirt
+#4> If medium level dress is required, wear jeans 
+	#5> Look through button down shirts and find and approraite one 
+#6> If high level dress is required, look for nice pair of pants
+	#7> Look through button down shirts and identify a matching shirt
+#8> Once outfit is being worn, check in mirror to verify it looks good
+#9> If outfit looks bad, repeat steps 2-7
+#10> If outfit looks good, go to event 
+
+
+
